@@ -1,0 +1,6 @@
+1. Summarise this document in bullet points.
+2. What is the Shared Responsibility Model in cloud computing?
+3. Generate 3 multiple choice questions based on these notes.
+4. Help me outline a research essay on AI-based cloud monitoring.
+5. Compare AWS and Azure security tools.
+6. Create an outline for a research essay on AI and cloud ethics.
